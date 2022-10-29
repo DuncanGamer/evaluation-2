@@ -10,7 +10,8 @@ module.exports = {
     },
     extend: {
       spacing:{
-        'quarter': '25%'
+        'quarter': '25%',
+        'header': '500px'
       },
       fontFamily:{
         'sans': "'Roboto', sans-serif",
